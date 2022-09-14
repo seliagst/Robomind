@@ -1,6 +1,6 @@
 west (2)
 north (2)
-if (rightIsBeacon)
+if (rightIsWhite)
 {
     right
     eatup
